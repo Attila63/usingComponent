@@ -1,0 +1,22 @@
+PODS:
+  - MyComponent (1.0.0)
+
+DEPENDENCIES:
+  - MyComponent (from `https://github.com/Attila63/MyComponent.git`, tag `2.0.0`)
+
+EXTERNAL SOURCES:
+  MyComponent:
+    :git: https://github.com/Attila63/MyComponent.git
+    :tag: 2.0.0
+
+CHECKOUT OPTIONS:
+  MyComponent:
+    :git: https://github.com/Attila63/MyComponent.git
+    :tag: 2.0.0
+
+SPEC CHECKSUMS:
+  MyComponent: c005d9e4f7a569f952e1461f5c1a92d52c37d436
+
+PODFILE CHECKSUM: 055921e1d18358aec35135a9b19140e3cd916f13
+
+COCOAPODS: 1.0.1

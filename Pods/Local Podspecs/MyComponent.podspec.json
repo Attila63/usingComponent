@@ -1,0 +1,26 @@
+{
+  "name": "MyComponent",
+  "version": "1.0.0",
+  "summary": "Test description of MyComponent.",
+  "description": "test bla bla bla   sdfasdf as df as d fa s df a sfd a s df as df a",
+  "homepage": "http://hotel.idealo.de/MyComponent",
+  "license": "MIT",
+  "authors": {
+    "Igor Gun": "igor.gun@idealo.de"
+  },
+  "source": {
+    "git": "https://github.com/Attila63/MyComponent.git",
+    "tag": "v1.0.0"
+  },
+  "source_files": [
+    "MyComponent/classes",
+    "MyComponent/classes/**/*.{h,m,swift}"
+  ],
+  "exclude_files": "MyComponent/classes/exclude",
+  "platforms": {
+    "osx": null,
+    "ios": null,
+    "tvos": null,
+    "watchos": null
+  }
+}
