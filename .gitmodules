@@ -1,0 +1,3 @@
+[submodule "submodules/MyComponent"]
+	path = submodules/MyComponent
+	url = https://github.com/Attila63/MyComponent.git
