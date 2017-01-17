@@ -11,7 +11,11 @@ import UIKit
 open class Component: NSObject {
 
     open func test(_ name: String) -> Bool {
-        print (name)
+        print ("version 3.0 \(name)")
         return true
+    }
+    
+    open func foo() {
+        print ("foo - implemented")
     }
 }

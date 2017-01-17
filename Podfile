@@ -4,7 +4,7 @@ use_frameworks!
 target 'AppUsedComponent' do
     workspace 'AppUsedComponent'
     project './AppUsedComponent.xcodeproj'
-    pod 'MyComponent', :git => 'https://github.com/Attila63/MyComponent.git', :tag => '2.0.0'
+    pod 'MyComponent', :git => 'https://github.com/Attila63/MyComponent.git', :tag => '4.0.0'
 end
 
 target 'MyComponent' do

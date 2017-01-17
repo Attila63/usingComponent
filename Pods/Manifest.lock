@@ -1,22 +1,22 @@
 PODS:
-  - MyComponent (1.0.0)
+  - MyComponent (4.0.1)
 
 DEPENDENCIES:
-  - MyComponent (from `https://github.com/Attila63/MyComponent.git`, tag `2.0.0`)
+  - MyComponent (from `https://github.com/Attila63/MyComponent.git`, tag `4.0.0`)
 
 EXTERNAL SOURCES:
   MyComponent:
     :git: https://github.com/Attila63/MyComponent.git
-    :tag: 2.0.0
+    :tag: 4.0.0
 
 CHECKOUT OPTIONS:
   MyComponent:
     :git: https://github.com/Attila63/MyComponent.git
-    :tag: 2.0.0
+    :tag: 4.0.0
 
 SPEC CHECKSUMS:
-  MyComponent: c005d9e4f7a569f952e1461f5c1a92d52c37d436
+  MyComponent: 1655a01c9d7eda4d0af1cc49e9730ef332aa5252
 
-PODFILE CHECKSUM: 5a2b0cc55a142818749dc77625d3c46ae20101d1
+PODFILE CHECKSUM: 9de8d009c489957c5152b1334522b7fdbf0d053b
 
-COCOAPODS: 1.0.1
+COCOAPODS: 1.2.0.rc.1
