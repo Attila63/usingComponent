@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "0E64BFA3128C0A79B5FF1BC0AA79453E961E88C7",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "2929A728E0FD6455D881E780F087CF3AEA111A7C" : 9223372036854775807,
+    "0E64BFA3128C0A79B5FF1BC0AA79453E961E88C7" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "14FC762C-7F17-403B-B9D4-6F70A461AF48",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "2929A728E0FD6455D881E780F087CF3AEA111A7C" : "AppUsedComponent\/submodules\/MyComponent\/",
+    "0E64BFA3128C0A79B5FF1BC0AA79453E961E88C7" : "AppUsedComponent\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "AppUsedComponentDevelopment",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "AppUsedComponentDevelopment.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Attila63\/usingComponent.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0E64BFA3128C0A79B5FF1BC0AA79453E961E88C7"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/Attila63\/MyComponent.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "2929A728E0FD6455D881E780F087CF3AEA111A7C"
+    }
+  ]
+}

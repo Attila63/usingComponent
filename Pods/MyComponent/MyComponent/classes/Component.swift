@@ -18,4 +18,8 @@ open class Component: NSObject {
     open func foo() {
         print ("foo - implemented")
     }
+    
+    open func foo1() {
+        print ("ok")
+    }
 }
